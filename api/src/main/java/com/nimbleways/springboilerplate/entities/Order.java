@@ -1,4 +1,4 @@
-package com.nimbleways.springboilerplate.entities;
+    package com.nimbleways.springboilerplate.entities;
 
 import lombok.*;
 
